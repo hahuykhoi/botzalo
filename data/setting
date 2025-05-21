@@ -1,0 +1,134 @@
+{
+    "admin_bot": [
+        "781974374393502253"
+    ],
+    "allowed_thread_ids": [
+        "4868786009853778022",
+        "3412040707980197805"
+    ],
+    "forbidden_words": [
+        "con cặc",
+        "đụ mẹ",
+        "du me",
+        "địt",
+        "địt mẹ",
+        "con chó",
+        "cặc",
+        "đụ lồn",
+        "lồn mẹ mày",
+        "thằng chó",
+        "con cac",
+        "dit me",
+        "djt",
+        "djt me",
+        "c a c",
+        "c ặ c",
+        "c-ă-c",
+        "c.ă.c",
+        "c.ặc",
+        "cặ.c",
+        "đm",
+        "dume",
+        "cailon",
+        "concac",
+        "vaicac",
+        "vailon",
+        "vailol",
+        "lồn",
+        "Iồn",
+        "Hentai",
+        "sexx",
+        "xxx",
+        "đụ cặc",
+        "L ồ n",
+        "I ồ n",
+        "Iồ n",
+        "Lồ n",
+        "|_ồn",
+        "|_ ồ n",
+        "Łồn",
+        "l̫ồn",
+        "ℓồn",
+        "ℓ ồ n",
+        "ℓ.ồ.n",
+        "L.ồ.n",
+        "Iồn",
+        "Duma",
+        "Cẹc",
+        "cứt",
+        "cức",
+        "cc",
+        "dm"
+    ],
+    "muted_users": [
+        {
+            "author_id": "3779098888042564741",
+            "thread_id": "4868786009853778022",
+            "reason": "Quản trị viên cấm",
+            "muted_until": 1731418582
+        },
+        {
+            "author_id": "3779098888042564741",
+            "thread_id": "3412040707980197805",
+            "reason": "Quản trị viên cấm",
+            "muted_until": 1731467837
+        }
+    ],
+    "violations": {
+        "7111980768430415767": {
+            "1697632707783235498": {
+                "profanity_count": 5,
+                "spam_count": 0,
+                "penalty_level": 3
+            },
+            "1752390484537919092": {
+                "profanity_count": 3,
+                "spam_count": 0,
+                "penalty_level": 1
+            }
+        },
+        "3779098888042564741": {
+            "3412040707980197805": {
+                "profanity_count": 2,
+                "spam_count": 0,
+                "penalty_level": 2
+            },
+            "4868786009853778022": {
+                "profanity_count": 1,
+                "spam_count": 0,
+                "penalty_level": 1
+            }
+        }
+    },
+    "rules": {
+        "word": {
+            "threshold": 3,
+            "duration": 60
+        },
+        "spam": {
+            "threshold": 3,
+            "duration": 30
+        }
+    },
+    "group_admins": {
+        "4868786009853778022": [
+            "781974374393502253"
+        ],
+        "3412040707980197805": [
+            "781974374393502253"
+        ]
+    },
+    "message_log": {
+        "4868786009853778022_3779098888042564741": {
+            "last_message_time": 1731414995.892809,
+            "message_times": [
+                1731414995.892809
+            ]
+        }
+    },
+    "allow_link": {},
+    "block_user_group": {},
+    "welcome": {
+        "3412040707980197805": false
+    }
+}
